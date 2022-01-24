@@ -1,1 +1,1 @@
-# -BRACU_CSE110-Programming_Language_I
+These are my Lab Assignment files with solution of Brac University's Computer Science & Engineering departmental core course CSE110 known as Programming Language I. Basially, this course taught us about Variable, Loop, Conditional logic and operator, string, List, Tuple, Dictionary, Function, file I/O, try-exception and other basic stuffs. We complete the course by using Python. These Lab assignments are given during Summer'2020 Semester for the course work.
